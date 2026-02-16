@@ -101,3 +101,5 @@ Systemet vurderes som fungerende når:
 - resultater registreres korrekt
 - status vises korrekt i frontend
 - data gemmes i database
+
+
