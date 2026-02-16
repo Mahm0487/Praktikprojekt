@@ -1,5 +1,5 @@
 # Praktikprojekt
-Netværks overvågningssystem Prototype
+Netværksovervågningssystem
 
 Systembeskrivelse:
 
