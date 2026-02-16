@@ -7,12 +7,13 @@ Dette projekt omhandler udviklingen af en prototype på et netværksbaseret over
 Formålet er at kunne teste og overvåge tilgængeligheden af netværksenheder og servere i et lokalt netværk.
 
 Systemet består af:
--backend til netværkstests og databehandling
--database til lagring af målinger
--frontend til visning af status og historik
--Projektet udvikles som en prototype og ikke som et færdigt overvågningsprodukt.
 
-Formål
+backend til netværkstests og databehandling
+database til lagring af målinger
+frontend til visning af status og historik
+Projektet udvikles som en prototype og ikke som et færdigt overvågningsprodukt.
+
+Formål:
 
 Formålet med systemet er at:
 -give overblik over netværkets tilgængelighed
